@@ -109,7 +109,7 @@ Esse comando instala as dependências declaradas no arquivo `pubspec.yaml`.
 Na raiz do projeto, execute:
 
 ```bash
-dart run bin/main.dart
+dart run 
 ```
 
 Após a execução, o menu interativo será apresentado no terminal.
